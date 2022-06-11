@@ -1,4 +1,4 @@
-Q2
+
 package mm1;
 import java.util.Scanner;
 
